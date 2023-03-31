@@ -1,6 +1,6 @@
-header {
+header { 
     background-color: #102f61;
-    color: rgb(116, 183, 228);
+    color:rgb(116, 183, 228);
 }
 .cabeçario-imagem{
 width: 20%;
@@ -26,5 +26,14 @@ width: 20%;
     padding: 0;
 }
 .escola-imagem{
-    width: 25%;
+    width: 20%;
+} 
+
+.escola{
+    background-image: linear-gradient(#102f61,#000000);
+    color:white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 24px 0;
 }
